@@ -1,0 +1,79 @@
+{
+    "name": "PersonaGraph Premium Theme",
+    "dataColors": [
+        "#004E89",
+        "#FF6B35",
+        "#3FA796",
+        "#7B2CBF",
+        "#E63946",
+        "#F4A261",
+        "#118AB2",
+        "#073B4C"
+    ],
+    "background": "#F4F6F8",
+    "foreground": "#1A1A1A",
+    "tableAccent": "#004E89",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "titleText": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#1A1A1A"
+                            }
+                        },
+                        "fontSize": 17,
+                        "fontFamily": "Segoe UI Semibold"
+                    }
+                ],
+                "labels": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#333333"
+                            }
+                        },
+                        "fontSize": 13,
+                        "fontFamily": "Segoe UI"
+                    }
+                ],
+                "header": [
+                    {
+                        "fontSize": 13,
+                        "fontFamily": "Segoe UI Semibold",
+                        "color": {
+                            "solid": {
+                                "color": "#1A1A1A"
+                            }
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "card": {
+            "*": {
+                "labels": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#004E89"
+                            }
+                        },
+                        "fontSize": 21,
+                        "fontFamily": "Segoe UI Bold"
+                    }
+                ]
+            }
+        }
+    }
+}
